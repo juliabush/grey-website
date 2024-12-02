@@ -28,23 +28,3 @@ a {
     color: #F9FAF8;
     font-size: 16px;
 }
-.hero {
-    background-color: #1F2937;
-    color: #F9FAF8;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding: 10px;
-}
-.column {
-    flex-direction: column;
-    width: 500px;
-}
-.button {
-    width: 80px;
-    background-color: #3882F6;
-    color: #F9FAF8;
-}
-.placeholder {
-
-}
