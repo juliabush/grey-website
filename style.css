@@ -13,7 +13,7 @@
     justify-content: space-around;
     padding: 10px;
 }
-p {
+p, p1 {
     font-weight: 900;
 }
 ul {
@@ -27,4 +27,36 @@ a {
     text-decoration: inherit;
     color: #F9FAF8;
     font-size: 16px;
+}
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 60px;
+    gap: 7rem;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    width: 100px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin-top: 6px;
+    border: none;
+    padding: 6px;
+}
+.placeholder {
+    background-color:  lightslategrey;
+    text-align: center;
+    align-content: center;
+    min-width: 300px;
+    min-height: 150px
+}
+p1 {
+    font-weight: 900;
+    font-size: 48px;
 }
