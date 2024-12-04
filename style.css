@@ -48,6 +48,7 @@ button {
     margin-top: 6px;
     border: none;
     padding: 6px;
+    border-radius: 10%;
 }
 .placeholder {
     background-color:  lightslategrey;
