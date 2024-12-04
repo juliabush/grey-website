@@ -61,3 +61,8 @@ p1 {
     font-weight: 900;
     font-size: 48px;
 }
+header {
+    font-size: 36px;
+    text-align: center;
+    margin: 20px;
+}
