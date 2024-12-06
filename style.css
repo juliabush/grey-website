@@ -96,4 +96,21 @@ header {
 .last {
     width: 100px;
 }
-
+.thor-hero {
+    background-color: lightgray ;
+    padding: 100px;
+    font-style: italic;
+    opacity: 0.8;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+}
+.thor{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    font-style: normal;
+}
