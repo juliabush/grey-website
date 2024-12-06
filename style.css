@@ -66,4 +66,12 @@ header {
     text-align: center;
     margin: 20px;
 }
+.blue {
+    border: solid 4px #3882F6;
+    padding: 40px;
+    display: flex;
+}
+.last {
+    width: 60px;
+}
 
