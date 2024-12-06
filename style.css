@@ -66,12 +66,34 @@ header {
     text-align: center;
     margin: 20px;
 }
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-shrink: 1;
+
+}
+.boxy {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 170px;
+}
 .blue {
     border: solid 4px #3882F6;
-    padding: 40px;
-    display: flex;
+    padding: 80px;
+    background-color: #F9FAF8;
+    border-radius: 10%;
+    max-width: 100px;
+    margin: 20px;
+}
+#hah {
+    margin-bottom: 40px;
+    text-align: center;
 }
 .last {
-    width: 60px;
+    width: 100px;
 }
 
