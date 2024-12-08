@@ -120,7 +120,23 @@ header {
     padding: 25px;
     color: #F9FAF8;
     border-radius: 10vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 .time {
     font-weight: bold;
+}
+.last {
+    border-radius: 10%;
+    border: solid #F9FAF8;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.copyright {
+    padding: 20px;
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
 }
