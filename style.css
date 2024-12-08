@@ -114,3 +114,13 @@ header {
     font-weight: bold;
     font-style: normal;
 }
+.call {
+    border: 5em solid white;
+    background-color: #3882F6;
+    padding: 25px;
+    color: #F9FAF8;
+    border-radius: 10vw;
+}
+.time {
+    font-weight: bold;
+}
